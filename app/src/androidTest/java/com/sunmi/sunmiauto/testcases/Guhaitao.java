@@ -33,6 +33,7 @@ public class Guhaitao {
         CommonAction.clickByText("下一步");
     }
 
+
     @Test
     public void test001apktegother() throws RemoteException {
         TestUtils.checkScreenStatus();   //亮屏，保证可用
