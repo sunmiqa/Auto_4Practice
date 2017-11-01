@@ -56,6 +56,7 @@ public class Guhaitao {
 
     }
 
+
     @Test
     public void test003apkdelete(){
         int x = device.getDisplayWidth()/2;
